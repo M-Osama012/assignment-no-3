@@ -232,7 +232,7 @@ function Home({ navigation }) {
             <RadioButtonItem value="magof" label={<Text style={{ color: "black", fontSize: 20, fontWeight: 'bold', marginLeft: 15, marginRight: 15 }}>Offered</Text>
             } />
             <RadioButtonItem value="magnotof" label={
-              <Text style={{ color: "black", fontSize: 20, fontWeight: 'bold', marginLeft: 15, marginRight: 15 }}>Not Offered</Text>
+              <Text style={{ color: "black", fontSize: 20, fontWeight: 'bold', marginLeft: 15, marginRight: 15 }}> Offered</Text>
             } />
           </RadioButtonGroup>
 
